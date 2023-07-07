@@ -1,0 +1,35 @@
+body{
+    display: flex;
+    flex-direction: column;
+    flex: auto;
+    background-color: bisque;
+}
+
+
+table{
+    border: 2px solid ;
+}
+ 
+th, td {
+    border: 1px solid;
+}
+.logo{
+    font-size: 2em;
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+
+}
+
+article{
+    flex: 2;
+    overflow: auto;
+}
+
+
+aside{
+    flex: 1;
+    overflow: auto;
+}
