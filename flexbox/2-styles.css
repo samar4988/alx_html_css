@@ -376,9 +376,9 @@
     padding: 10rem 40rem 2rem 0;
   }
   /* Section Latest news ============================= */
- .row-new[class*= "section-latest-news"]
- {
+ .row-new {
     flex-direction: row-reverse;
+     [class*= "section-latest-news"]
 
  }
 
