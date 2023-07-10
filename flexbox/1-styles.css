@@ -387,7 +387,6 @@
   
   /* Card WORK
       ============================= */
-  [class*= section-works]
   .card-work .card-outer {
     position: relative;
     overflow: hidden;
@@ -452,7 +451,6 @@
   
   /* Card SERVICES
       ============================= */
-  [class*= section-services]
   .card-services .card-title {
     margin: 0;
   }
@@ -473,7 +471,6 @@
   
   /* Card TESTIMONIAL
       ============================= */
-  [class*= section-testimonal]
   .card-testimonial {
     text-align: center;
   }
